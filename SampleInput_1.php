@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Data Entry Form</title>
+<title>Data Entry Forms</title>
 <style>
 body { font-family: Arial; background-color:#e6f0ff; color:#003366; padding:30px;}
 h1 { text-align:center; }
